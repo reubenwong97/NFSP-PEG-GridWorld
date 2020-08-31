@@ -2,11 +2,7 @@
 
 ## PEG Environment
 
-Credits to zuoxingdong for the base 
-
-[mazelab]: https://github.com/zuoxingdong/mazelab
-
-environment. 
+Credits to zuoxingdong for the base [mazelab](https://github.com/zuoxingdong/mazelab) environment. 
 
 Mazelab supports maze generation and game playing API for single player environments out of the box. I modified the environment to support multi-agent gameplay.
 
